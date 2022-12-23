@@ -37,7 +37,9 @@ header ul li{
 }
 /* _____________Home____________ */
 .home_div{
-  height: 400px;
+  padding: 20px 20px;
+  height:400px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,7 +48,6 @@ header ul li{
   padding: 20px 20px;
   height:400px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-
 }
 .text_div textarea{
   width: 100%;
