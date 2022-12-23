@@ -24,7 +24,6 @@ header{
   justify-content: space-between;
   padding: 20px 30px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-
 }
 header ul{
   display: flex;
@@ -39,7 +38,6 @@ header ul li{
 /* _____________Home____________ */
 .home_div{
   height: 400px;
-  border: 3px solid white;
   display: flex;
   justify-content: center;
   align-items: center;
